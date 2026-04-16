@@ -1,0 +1,6 @@
+# Downloaded packages and build artifacts
+*.deb
+*.AppImage
+build/
+squashfs-root/
+*.img
